@@ -1,5 +1,7 @@
 # My friendly terminal
 
+> [Home](./index.md)
+
 These shell commands are defined internally. Type `help' to see this list. Type `help name' to find out more about the function `name'. Use `info bash' to find out more about the shell in general.
 Use `man -k' or `info' to find out more about commands not in this list.
 
